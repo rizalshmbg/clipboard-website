@@ -1,7 +1,13 @@
 import Hero from './components/Hero'
+import Snippets from './components/Snippets'
 
 const App = () => {
-	return <Hero />
+	return (
+		<>
+			<Hero />
+			<Snippets />
+		</>
+	)
 }
 
 export default App
