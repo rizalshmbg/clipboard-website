@@ -6,7 +6,7 @@ const ItemsContainerSupercharge = () => {
 			{/* ITEM-1 */}
 			<div className='flex flex-col items-center space-y-5'>
 				<img src={iconBlacklist} alt='icon blacklist' className='mb-6' />
-				<h5>Create Blacklist</h5>
+				<h5>Create Blacklists</h5>
 				<p className='max-w-md text-grayishBlue'>
 					Easily search your snippets by content, category, web address,
 					application, and more.
@@ -18,7 +18,7 @@ const ItemsContainerSupercharge = () => {
 				<img src={iconText} alt='icon blacklist' className='mb-6' />
 				<h5>Plain Text Snippets</h5>
 				<p className='max-w-md text-grayishBlue'>
-					Remove unwanted formatting from copied text for a consistent look
+					Remove unwanted formatting from copied text for a consistent look.
 				</p>
 			</div>
 
