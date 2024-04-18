@@ -17,7 +17,7 @@
 }
 
 .section-content {
-	@apply max-w-3xl mx-auto leading-6 text-center text-grayishBlue;
+	@apply max-w-3xl mx-auto leading-9 text-center text-grayishBlue;
 }
 
 .btn-container {
