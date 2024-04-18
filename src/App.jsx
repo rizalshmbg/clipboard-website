@@ -1,4 +1,5 @@
 import Access from './components/Access'
+import BottomCTA from './components/BottomCTA'
 import Features from './components/Features'
 import Hero from './components/Hero'
 import References from './components/References'
@@ -14,6 +15,7 @@ const App = () => {
 			<Access />
 			<Supercharge />
 			<References />
+			<BottomCTA />
 		</>
 	)
 }
