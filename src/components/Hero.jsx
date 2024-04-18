@@ -1,10 +1,10 @@
-import logo from '../assets/svg/logo.svg'
+import { logo } from '../assets/svg'
 import BtnContainerHero from './BtnContainerHero'
 
 const Hero = () => {
 	return (
 		<section id='hero'>
-			<div className='section-container mb-40 px-10 pt-16'>
+			<div className='section-container mb-40 pt-16'>
 				<img
 					src={logo}
 					alt='logo icon of clipboard'
