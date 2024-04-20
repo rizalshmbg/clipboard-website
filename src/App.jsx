@@ -37,6 +37,11 @@ const App = () => {
 					stagger: 0.5,
 					duration: 1,
 				})
+				.to('#logo-1', {
+					scale: 1,
+					stagger: 0.25,
+					duration: 0.5,
+				})
 		}, comp)
 
 		return () => ctx.revert()
