@@ -2,6 +2,6 @@
 
 ## Idea : -
 
-### [Link](https://clipboard-website.vercel.app)
+### [Link](https://clipboard-websitee.vercel.app)
 
 #### Create static web using Tailwind CSS and GSAP
